@@ -1,2 +1,2 @@
-# Just-Another-Project
+# Just-Another_Project
 Simple project - basically all the other projects from courses combined just to test my abilities.
